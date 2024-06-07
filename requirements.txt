@@ -1,0 +1,7 @@
+
+argparse
+whois
+dnspython
+requests
+shodan
+colorama
